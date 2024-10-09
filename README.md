@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">A results-oriented website developer with 3 years of experience, based in the Philippines. I specialize in building websites, integrating APIs, and developing both front-end and back-end code using various frameworks and tools. I work well in agile teams and am skilled in testing, debugging, and troubleshooting.<br><br>My expertise includes C#, VB .NET, SQL, HTML, CSS, JavaScript, Blazor, ASP .NET, .NET Core, Bootstrap, and API development. I am also knowledgeable in data structures, algorithms, Agile development, and database management with Microsoft SQL Server and Postgres. Additionally, I am experienced with IDEs like Visual Studio, Visual Code, Eclipse, and NetBeans. Known for my adaptability and commitment to continuous learning.</h3>
+<p align="left">A results-oriented website developer with 3 years of experience, based in the Philippines. I specialize in building websites, integrating APIs, and developing both front-end and back-end code using various frameworks and tools. I work well in agile teams and am skilled in testing, debugging, and troubleshooting.<br><br>My expertise includes C#, VB .NET, SQL, HTML, CSS, JavaScript, Blazor, ASP .NET, .NET Core, Bootstrap, and API development. I am also knowledgeable in data structures, algorithms, Agile development, and database management with Microsoft SQL Server and Postgres. Additionally, I am experienced with IDEs like Visual Studio, Visual Code, Eclipse, and NetBeans. Known for my adaptability and commitment to continuous learning.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">I have always been passionate about technology, particularly in the field of software development. The process of solving complex problems, creating efficient solutions, and seeing ideas come to life through code has always fascinated me. Beyond my technical interests, I also have a strong passion for sports, particularly volleyball and badminton. These sports have taught me the value of teamwork, discipline, and perseverance—qualities that I find equally essential in software development. The strategic thinking required in sports mirrors the problem-solving mindset needed in programming, making both activities rewarding and engaging for me.</h3>
+<p align="left">I have always been passionate about technology, particularly in the field of software development. The process of solving complex problems, creating efficient solutions, and seeing ideas come to life through code has always fascinated me. Beyond my technical interests, I also have a strong passion for sports, particularly volleyball and badminton. These sports have taught me the value of teamwork, discipline, and perseverance—qualities that I find equally essential in software development. The strategic thinking required in sports mirrors the problem-solving mindset needed in programming, making both activities rewarding and engaging for me.</p>
 
 ###
 
